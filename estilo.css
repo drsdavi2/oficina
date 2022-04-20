@@ -1,0 +1,48 @@
+body{
+	margin: 0 auto;
+	padding: 10px;
+	width: auto;
+	background-color: #000000;
+}
+header{
+	width: auto;
+	height: 410px;
+	background-image: url(img/banner.jpg);
+}
+nav{
+	background: white;
+	width: auto;
+	height: 40px;
+	margin:3px 0px 3px 0px;	
+}
+div{
+	background: black;
+	width: auto;
+	min-height: 500px;
+		
+}
+article{
+	background: white;
+	width: 68.7%;
+	min-height: 500px;
+	float: left;	
+}
+aside{
+	background: white;
+	width: 31%;
+	min-height: 500px;
+	float: right;	
+}
+footer{
+	margin-top: 3px;
+	clear: both;
+	background: gray;
+	width: auto;
+	height: 200px;	
+}
+
+.container{
+	width: 1200px;
+	margin: 0 auto;
+}	
+	
